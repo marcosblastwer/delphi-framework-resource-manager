@@ -1,2 +1,2 @@
-# delphi-standard-resource-manager
+# delphi-framework-resource-manager
 Standard resource manager
